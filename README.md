@@ -8,4 +8,4 @@ working:
 
 2.Detect face from input image using haarcascade
 
-3.Detected face send to model it predict the corresponding class 
+3.Detected face send to model to Recognition face
